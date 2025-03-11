@@ -1,8 +1,12 @@
+![Hammad Palh](https://example.com/path/to/hammad-palh-image.jpg)
+
 # Hammad Palh's Quranic Recitations
 
 Welcome to the repository showcasing the beautiful Quranic recitations by Hammad Palh. This collection aims to provide listeners with serene and contemplative experiences through melodious and heartfelt renditions of various Surahs.
 
 ## About Hammad Palh
+
+![Hammad Palh Banner](https://example.com/path/to/banner-image.jpg)
 
 Hammad Palh is a content creator renowned for his elegant recitations of Quranic verses. His YouTube channel features a variety of videos, including:
 
@@ -32,7 +36,7 @@ Here are some of the highlighted recitations by Hammad Palh:
 
 To explore more of Hammad Palh's recitations, visit his YouTube channel:
 
-[Hammad Palh's YouTube Channel](https://www.youtube.com/channel/UCexampleChannel)
+[![Hammad Palh's YouTube Channel](https://yt3.ggpht.com/ytc/AAUvwnhXzRzZ6g6z6z6z6z6z6z6z6z6z6z6z6z6z6=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCexampleChannel)
 
 ## Contributing
 
